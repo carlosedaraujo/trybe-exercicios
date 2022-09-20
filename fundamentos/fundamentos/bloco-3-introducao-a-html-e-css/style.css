@@ -1,0 +1,36 @@
+h1 {
+         
+    font-family: sans-serif;
+    color: crimson;
+    font-style:italic;
+    text-align: center;
+  }  
+
+  p {
+    
+    
+    font-weight: 600;
+
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 3em;
+    text-decoration:underline; 
+  }
+
+  #yl {
+
+    background-color: yellow;
+    
+  }
+
+  #rd {
+
+    background-color: red;
+  }
+
+  #br {
+
+    background-color: brown;
+  }
